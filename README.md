@@ -1,2 +1,2 @@
-# numpy-python
-It consist of all python exercise
+# python-work
+its consist of  all about python excercise
